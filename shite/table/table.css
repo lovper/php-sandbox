@@ -1,0 +1,12 @@
+body { 
+    font-family: comicsans;
+    
+}
+
+thead {
+    background:gray;
+}
+
+td {
+    border: solid thin black;
+}

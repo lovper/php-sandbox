@@ -1,0 +1,525 @@
+[25-Jan-2019 11:44:56 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/API/index.php on line 5
+[25-Jan-2019 11:44:56 UTC] PHP Stack trace:
+[25-Jan-2019 11:44:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/API/index.php:0
+[25-Jan-2019 11:44:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/API/index.php on line 5
+[25-Jan-2019 11:44:56 UTC] PHP Stack trace:
+[25-Jan-2019 11:44:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/API/index.php:0
+[25-Jan-2019 12:25:56 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/API/index.php on line 5
+[25-Jan-2019 12:25:56 UTC] PHP Stack trace:
+[25-Jan-2019 12:25:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/API/index.php:0
+[25-Jan-2019 12:25:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/API/index.php on line 5
+[25-Jan-2019 12:25:56 UTC] PHP Stack trace:
+[25-Jan-2019 12:25:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/API/index.php:0
+[28-Jan-2019 08:55:45 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 08:55:45 UTC] PHP Stack trace:
+[28-Jan-2019 08:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 08:55:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 08:55:45 UTC] PHP Stack trace:
+[28-Jan-2019 08:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:25:43 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:25:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:25:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:25:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:25:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:25:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:01 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:02 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:02 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:02 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:20 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:20 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:26:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:26:20 UTC] PHP Stack trace:
+[28-Jan-2019 09:26:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:28:40 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:28:40 UTC] PHP Stack trace:
+[28-Jan-2019 09:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:28:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:28:40 UTC] PHP Stack trace:
+[28-Jan-2019 09:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:28:59 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:28:59 UTC] PHP Stack trace:
+[28-Jan-2019 09:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:28:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:28:59 UTC] PHP Stack trace:
+[28-Jan-2019 09:28:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:00 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:00 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:00 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:01 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:01 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:01 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:01 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:02 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:02 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:02 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:43 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:44 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:44 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:52 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:52 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:29:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:29:52 UTC] PHP Stack trace:
+[28-Jan-2019 09:29:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:30:26 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:30:26 UTC] PHP Stack trace:
+[28-Jan-2019 09:30:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:30:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:30:26 UTC] PHP Stack trace:
+[28-Jan-2019 09:30:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:31:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Faker\Factory' not found in /home/ubuntu/workspace/projects/api/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/api/index.php on line 7
+[28-Jan-2019 09:32:46 UTC] PHP Fatal error:  Uncaught Error: Class 'Faker\Factory' not found in /home/ubuntu/workspace/projects/api/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/api/index.php on line 7
+[28-Jan-2019 09:33:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Faker\Factory' not found in /home/ubuntu/workspace/projects/api/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/api/index.php on line 7
+[28-Jan-2019 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Faker\Factory' not found in /home/ubuntu/workspace/projects/api/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/api/index.php on line 7
+[28-Jan-2019 09:33:53 UTC] PHP Fatal error:  Uncaught Error: Class 'Faker\Factory' not found in /home/ubuntu/workspace/projects/api/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/api/index.php on line 7
+[28-Jan-2019 09:34:44 UTC] PHP Warning:  require_once(/path/to/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:34:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:34:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:34:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/path/to/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:34:44 UTC] PHP Stack trace:
+[28-Jan-2019 09:34:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:36:26 UTC] PHP Warning:  require_once(../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:36:26 UTC] PHP Stack trace:
+[28-Jan-2019 09:36:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:36:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:36:26 UTC] PHP Stack trace:
+[28-Jan-2019 09:36:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:36:37 UTC] PHP Warning:  require_once(../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:36:37 UTC] PHP Stack trace:
+[28-Jan-2019 09:36:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:36:37 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:36:37 UTC] PHP Stack trace:
+[28-Jan-2019 09:36:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:17 UTC] PHP Warning:  require_once(../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:17 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:17 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:17 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:23 UTC] PHP Warning:  require_once(../../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:23 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:23 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:24 UTC] PHP Warning:  require_once(../../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:24 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:24 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:31 UTC] PHP Warning:  require_once(../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:31 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:31 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:41 UTC] PHP Warning:  require_once(../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:41 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:41 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:43 UTC] PHP Warning:  require_once(../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:43 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:43 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:47 UTC] PHP Warning:  require_once(/../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:47 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:47 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:51 UTC] PHP Warning:  require_once(/vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:51 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:37:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:37:51 UTC] PHP Stack trace:
+[28-Jan-2019 09:37:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:38:08 UTC] PHP Warning:  require_once(../../vendor/fzaninotto/Faker/src/autoload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:38:08 UTC] PHP Stack trace:
+[28-Jan-2019 09:38:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 09:38:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../../vendor/fzaninotto/Faker/src/autoload.php' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 09:38:08 UTC] PHP Stack trace:
+[28-Jan-2019 09:38:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 10:58:57 UTC] PHP Stack trace:
+[28-Jan-2019 10:58:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 10:58:57 UTC] PHP Stack trace:
+[28-Jan-2019 10:58:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 10:58:57 UTC] PHP Stack trace:
+[28-Jan-2019 10:58:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 10:58:57 UTC] PHP Stack trace:
+[28-Jan-2019 10:58:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 10:58:57 UTC] PHP Stack trace:
+[28-Jan-2019 10:58:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 10:58:57 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:00:13 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP Notice:  Undefined variable: trim in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:13 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:00:13 UTC] PHP Notice:  Undefined variable: trim in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 11:00:13 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Notice:  Undefined variable: trim in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:00:58 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:00:58 UTC] PHP Notice:  Undefined variable: trim in /home/ubuntu/workspace/projects/api/index.php on line 5
+[28-Jan-2019 11:00:58 UTC] PHP Stack trace:
+[28-Jan-2019 11:00:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:04:56 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:56 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:56 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:56 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:56 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:56 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:04:57 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:04:57 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:57 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:57 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:57 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:57 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:57 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:57 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:57 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:04:57 UTC] PHP Stack trace:
+[28-Jan-2019 11:04:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:04:57 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:05:05 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:05:05 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:05 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:05 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:05 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:05 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:05 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:05 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:05 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:05 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:05 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:05:10 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:05:10 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:10 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:10 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:10 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:10 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:10 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:10 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:10 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:10 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:10 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[28-Jan-2019 11:05:24 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[28-Jan-2019 11:05:24 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:24 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:24 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:24 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:24 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:24 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:24 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:24 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[28-Jan-2019 11:05:24 UTC] PHP Stack trace:
+[28-Jan-2019 11:05:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[28-Jan-2019 11:05:24 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[29-Jan-2019 11:12:09 UTC] PHP Notice:  Undefined index: url in /home/ubuntu/workspace/projects/api/index.php on line 3
+[29-Jan-2019 11:12:09 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:09 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:09 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:09 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:09 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:09 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:09 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:09 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:09 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:09 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[29-Jan-2019 11:12:31 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:31 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:31 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:31 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:31 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:31 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:31 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 4
+[29-Jan-2019 11:12:31 UTC] PHP Stack trace:
+[29-Jan-2019 11:12:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:12:31 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:4
+[29-Jan-2019 11:33:13 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:13 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:13 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:13 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:13 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:13 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:13 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:13 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:13 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:8
+[29-Jan-2019 11:33:18 UTC] PHP Warning:  Use of undefined constant FILTER - assumed 'FILTER' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:18 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:18 UTC] PHP Warning:  Use of undefined constant SANITIZE - assumed 'SANITIZE' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:18 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:18 UTC] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:18 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:18 UTC] PHP Warning:  filter_var() expects parameter 2 to be integer, string given in /home/ubuntu/workspace/projects/api/index.php on line 8
+[29-Jan-2019 11:33:18 UTC] PHP Stack trace:
+[29-Jan-2019 11:33:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/api/index.php:0
+[29-Jan-2019 11:33:18 UTC] PHP   2. filter_var() /home/ubuntu/workspace/projects/api/index.php:8
+[08-Mar-2019 11:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Dice::getLastRolled() in /home/ubuntu/workspace/projects/objects/Dice.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/projects/objects/index.php(6): Dice->roll()
+#1 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/Dice.php on line 15
+[08-Mar-2019 11:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Dice::getLastRolled() in /home/ubuntu/workspace/projects/objects/Dice.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/projects/objects/index.php(6): Dice->roll()
+#1 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/Dice.php on line 15
+[08-Mar-2019 11:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Dice::getLastRolled() in /home/ubuntu/workspace/projects/objects/Dice.php:15
+Stack trace:
+#0 /home/ubuntu/workspace/projects/objects/index.php(6): Dice->roll()
+#1 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/Dice.php on line 15
+[08-Mar-2019 12:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Dice::roll() in /home/ubuntu/workspace/projects/objects/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/index.php on line 6
+[11-Mar-2019 09:12:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/projects/objects/Dice.php on line 8
+[11-Mar-2019 09:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d() in /home/ubuntu/workspace/projects/objects/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/index.php on line 7
+[11-Mar-2019 09:15:11 UTC] PHP Warning:  require(../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:15:11 UTC] PHP Stack trace:
+[11-Mar-2019 09:15:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:15:11 UTC] PHP Fatal error:  require(): Failed opening required '../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:15:11 UTC] PHP Stack trace:
+[11-Mar-2019 09:15:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:15:33 UTC] PHP Warning:  require(../../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:15:33 UTC] PHP Stack trace:
+[11-Mar-2019 09:15:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:15:33 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:15:33 UTC] PHP Stack trace:
+[11-Mar-2019 09:15:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:16:04 UTC] PHP Warning:  require(../../../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:16:04 UTC] PHP Stack trace:
+[11-Mar-2019 09:16:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:16:04 UTC] PHP Fatal error:  require(): Failed opening required '../../../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:16:04 UTC] PHP Stack trace:
+[11-Mar-2019 09:16:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:18:56 UTC] PHP Warning:  require(../../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:18:56 UTC] PHP Stack trace:
+[11-Mar-2019 09:18:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:18:56 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:18:56 UTC] PHP Stack trace:
+[11-Mar-2019 09:18:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:19:07 UTC] PHP Warning:  require(../../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:19:07 UTC] PHP Stack trace:
+[11-Mar-2019 09:19:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:19:07 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:19:07 UTC] PHP Stack trace:
+[11-Mar-2019 09:19:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:19:10 UTC] PHP Warning:  require(../../vendor/autoload): failed to open stream: No such file or directory in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:19:10 UTC] PHP Stack trace:
+[11-Mar-2019 09:19:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:19:10 UTC] PHP Fatal error:  require(): Failed opening required '../../vendor/autoload' (include_path='.:/usr/share/php') in /home/ubuntu/workspace/projects/objects/index.php on line 3
+[11-Mar-2019 09:19:10 UTC] PHP Stack trace:
+[11-Mar-2019 09:19:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d() in /home/ubuntu/workspace/projects/objects/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/index.php on line 8
+[11-Mar-2019 09:41:33 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Dice::roll(), 0 passed in /home/ubuntu/workspace/projects/objects/index.php on line 7 and exactly 1 expected in /home/ubuntu/workspace/projects/objects/Dice.php:24
+Stack trace:
+#0 /home/ubuntu/workspace/projects/objects/index.php(7): Dice->roll()
+#1 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/Dice.php on line 24
+[11-Mar-2019 09:41:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Dice::roll(), 0 passed in /home/ubuntu/workspace/projects/objects/index.php on line 11 and exactly 1 expected in /home/ubuntu/workspace/projects/objects/Dice.php:24
+Stack trace:
+#0 /home/ubuntu/workspace/projects/objects/index.php(11): Dice->roll()
+#1 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/Dice.php on line 24
+[11-Mar-2019 09:48:32 UTC] PHP Notice:  Undefined variable: lastRolled in /home/ubuntu/workspace/projects/objects/Dice.php on line 20
+[11-Mar-2019 09:48:32 UTC] PHP Stack trace:
+[11-Mar-2019 09:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:48:32 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 09:48:32 UTC] PHP   3. Dice->rollDice() /home/ubuntu/workspace/projects/objects/Dice.php:28
+[11-Mar-2019 09:48:32 UTC] PHP Notice:  Undefined variable: lastRolled in /home/ubuntu/workspace/projects/objects/Dice.php on line 20
+[11-Mar-2019 09:48:32 UTC] PHP Stack trace:
+[11-Mar-2019 09:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:48:32 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 09:48:32 UTC] PHP   3. Dice->rollDice() /home/ubuntu/workspace/projects/objects/Dice.php:28
+[11-Mar-2019 09:48:32 UTC] PHP Notice:  Undefined variable: pastRolls in /home/ubuntu/workspace/projects/objects/index.php on line 11
+[11-Mar-2019 09:48:32 UTC] PHP Stack trace:
+[11-Mar-2019 09:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:49:02 UTC] PHP Notice:  Undefined variable: pastRolls in /home/ubuntu/workspace/projects/objects/index.php on line 11
+[11-Mar-2019 09:49:02 UTC] PHP Stack trace:
+[11-Mar-2019 09:49:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:51:08 UTC] PHP Notice:  Undefined variable: pastRolls in /home/ubuntu/workspace/projects/objects/index.php on line 11
+[11-Mar-2019 09:51:08 UTC] PHP Stack trace:
+[11-Mar-2019 09:51:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 09:51:17 UTC] PHP Notice:  Undefined variable: pastRolls in /home/ubuntu/workspace/projects/objects/index.php on line 11
+[11-Mar-2019 09:51:17 UTC] PHP Stack trace:
+[11-Mar-2019 09:51:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:02:16 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/projects/objects/Dice.php on line 20
+[11-Mar-2019 10:02:16 UTC] PHP Stack trace:
+[11-Mar-2019 10:02:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:02:16 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 10:02:16 UTC] PHP   3. Dice->rollDice() /home/ubuntu/workspace/projects/objects/Dice.php:28
+[11-Mar-2019 10:02:16 UTC] PHP   4. array_push() /home/ubuntu/workspace/projects/objects/Dice.php:20
+[11-Mar-2019 10:02:16 UTC] PHP Warning:  array_push() expects at least 2 parameters, 1 given in /home/ubuntu/workspace/projects/objects/Dice.php on line 20
+[11-Mar-2019 10:02:16 UTC] PHP Stack trace:
+[11-Mar-2019 10:02:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:02:16 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 10:02:16 UTC] PHP   3. Dice->rollDice() /home/ubuntu/workspace/projects/objects/Dice.php:28
+[11-Mar-2019 10:02:16 UTC] PHP   4. array_push() /home/ubuntu/workspace/projects/objects/Dice.php:20
+[11-Mar-2019 10:05:33 UTC] PHP Notice:  Undefined variable: Dice in /home/ubuntu/workspace/projects/objects/index.php on line 10
+[11-Mar-2019 10:05:33 UTC] PHP Stack trace:
+[11-Mar-2019 10:05:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:05:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rollDice() on null in /home/ubuntu/workspace/projects/objects/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/objects/index.php on line 10
+[11-Mar-2019 10:08:17 UTC] PHP Notice:  Undefined variable: lastRolled in /home/ubuntu/workspace/projects/objects/Dice.php on line 28
+[11-Mar-2019 10:08:17 UTC] PHP Stack trace:
+[11-Mar-2019 10:08:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:08:17 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 10:08:17 UTC] PHP Notice:  Undefined variable: lastRolled in /home/ubuntu/workspace/projects/objects/Dice.php on line 28
+[11-Mar-2019 10:08:17 UTC] PHP Stack trace:
+[11-Mar-2019 10:08:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[11-Mar-2019 10:08:17 UTC] PHP   2. Dice->roll() /home/ubuntu/workspace/projects/objects/index.php:7
+[11-Mar-2019 10:11:42 UTC] PHP Notice:  Undefined variable: lastRolled in /home/ubuntu/workspace/projects/objects/index.php on line 10
+[11-Mar-2019 10:11:42 UTC] PHP Stack trace:
+[11-Mar-2019 10:11:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/projects/objects/index.php:0
+[01-Apr-2019 10:09:23 UTC] PHP Fatal error:  Uncaught Error: Class 'CasinoDice' not found in /home/ubuntu/workspace/projects/oop/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/projects/oop/index.php on line 3
